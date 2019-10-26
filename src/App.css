@@ -1,0 +1,15 @@
+/*
+    Use box-sizing:border-box for all elements.
+*/
+
+* {
+    box-sizing: border-box;
+}
+
+/*
+    Set font-size in parent tag, in child tag, use rem.
+*/
+
+html {
+    font-size: 24px;
+}
